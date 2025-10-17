@@ -22,7 +22,7 @@ I love solving algorithmic problems and improving my problem-solving skills ever
 | [Kattis](https://open.kattis.com/users/shahjalal-shohag)     | shahjalal-shohag      | 9  |
 | [CS Academy](https://csacademy.com/user/YouKnowWho)         | YouKnowWho            | 14 |
 | TOKI             | YouKnowWho        | 36 |
-| **Total**        |                          | **6334 ✅** |
+| **Total**        |                          | **600 ✅** |
 
 🕒 *Last Updated: 6 August, 2025*
 
